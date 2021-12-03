@@ -1,13 +1,13 @@
-package com.guruguruzom.redis;
+package com.guruguruzom.redis2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RedisApplication {
+public class Redis2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RedisApplication.class, args);
+		SpringApplication.run(Redis2Application.class, args);
 	}
 
 }
